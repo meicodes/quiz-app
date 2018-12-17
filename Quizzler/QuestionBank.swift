@@ -3,7 +3,6 @@
 //  Quizzler
 //
 //  Created by Mei on 12/15/18.
-//  Copyright © 2018 London App Brewery. All rights reserved.
 //
 
 import Foundation

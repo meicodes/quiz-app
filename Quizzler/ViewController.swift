@@ -11,7 +11,7 @@ import UIKit
 class ViewController: UIViewController {
     
     //Place your instance variables here
-    
+    let allQuestions = QuestionBank()
     
     @IBOutlet weak var questionLabel: UILabel!
     @IBOutlet weak var scoreLabel: UILabel!
